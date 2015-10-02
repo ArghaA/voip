@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "voip", "voip\voip.csproj", "{B4700EE6-8B9A-4D56-ABBC-6F8243AE6AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4700EE6-8B9A-4D56-ABBC-6F8243AE6AD5}.Debug|x86.ActiveCfg = Debug|x86
+		{B4700EE6-8B9A-4D56-ABBC-6F8243AE6AD5}.Debug|x86.Build.0 = Debug|x86
+		{B4700EE6-8B9A-4D56-ABBC-6F8243AE6AD5}.Release|x86.ActiveCfg = Release|x86
+		{B4700EE6-8B9A-4D56-ABBC-6F8243AE6AD5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/home/bonnie/workstation/voip/voip/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bonnie/workstation/voip/voip/obj/x86/Debug/voip.gtk-gui.gui.stetic
+/home/bonnie/workstation/voip/voip/bin/Debug/voip.exe.mdb
+/home/bonnie/workstation/voip/voip/bin/Debug/voip.exe
+/home/bonnie/workstation/voip/voip/obj/x86/Debug/voip.exe
+/home/bonnie/workstation/voip/voip/obj/x86/Debug/voip.exe.mdb
+/home/argha/workstation/voip/voip/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/argha/workstation/voip/voip/obj/x86/Debug/voip.gtk-gui.gui.stetic
+/home/argha/workstation/voip/voip/bin/Debug/voip.exe.mdb
+/home/argha/workstation/voip/voip/bin/Debug/voip.exe
+/home/argha/workstation/voip/voip/obj/x86/Debug/voip.exe
+/home/argha/workstation/voip/voip/obj/x86/Debug/voip.exe.mdb
